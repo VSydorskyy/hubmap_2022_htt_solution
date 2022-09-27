@@ -1,0 +1,7 @@
+name: hubmap_2022
+
+dependencies:
+  - python=3.8.8
+  - pip==21.1.2
+  - pip:
+    - -r requirements.txt
